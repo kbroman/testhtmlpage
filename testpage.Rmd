@@ -1,0 +1,17 @@
+---
+title: "Test page"
+output: html_document
+---
+
+This is a test page. Here's a bit of R code:
+
+```{r simulate}
+x <- rnorm(100)
+y <- x*3 + rnorm(100)
+```
+
+Here's a plot:
+
+```{r plot}
+plot(x,y)
+```
