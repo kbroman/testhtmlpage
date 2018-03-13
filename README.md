@@ -26,3 +26,8 @@ and put any derived html files there. An example of this is my
 repository for a Plant Breeding seminar I'm teaching this semester, at
 <https://github.com/kbroman/PBPG957_Sp2018>. The `docs/` folder in
 that repository is published at <http://kbroman.org/PBPG957_Sp2018>.
+
+You may also be interested in
+[Jenny Bryan](https://www.stat.ubc.ca/~jenny/)'s discussion on
+[Make a GitHub repo browsable](http://happygitwithr.com/repo-browsability.html),
+at [Happy Git and GitHub for the useR](http://happygitwithr.com).
